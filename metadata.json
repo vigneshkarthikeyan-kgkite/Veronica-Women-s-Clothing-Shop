@@ -1,0 +1,6 @@
+{
+  "name": "VALA ATELIER — Bespoke Women's Tailoring",
+  "description": "Luxury custom-fitted apparel engineered and drafted for diverse body types, proportions, and silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
